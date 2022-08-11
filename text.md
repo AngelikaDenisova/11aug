@@ -9,3 +9,5 @@
 Команды: git log, git init, git add, git commit ...
 
 Сейчас будем пушить
+
+тестируем пул
